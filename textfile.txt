@@ -1,0 +1,2 @@
+This file is created to be added to Github 
+And to learn to add the files to Github account from local machine.
